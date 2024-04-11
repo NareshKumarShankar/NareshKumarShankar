@@ -1,4 +1,4 @@
-### Hi there 👋, Hello World 👋🏽,
+### Hello World 👋🏽, Naresh here 🧑🏾
 ![](https://github.com/NareshKumarShankar/NareshKumarShankar/blob/main/www.reallygreatsite.com.png)
 I am curious in learning new technologies and apply them to solve real world problems.
 
